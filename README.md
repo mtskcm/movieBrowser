@@ -122,8 +122,6 @@ Coverage targets: **80%+** on hooks, utils, and store.
 
 ---
 
-## 📱 Screenshots
-
 ## 🛡️ Security
 
 - The TMDB API key is **never hardcoded** — always read from `process.env.EXPO_PUBLIC_TMDB_API_KEY`
