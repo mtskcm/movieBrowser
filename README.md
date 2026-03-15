@@ -11,7 +11,7 @@ A production-quality React Native movie discovery app powered by the [TMDB API](
 
 | Home | Now Playing | Search | Favorites |
 |------|-------------|--------|-----------|
-| ![Home](8C3B7204-E739-4178-A588-9CF91896CFC7.jpeg) | ![Browse](6C1DECA8-194D-46B3-AD2A-5619DA5BEEE9.jpeg) | ![Search](CD1064D7-0D4B-4985-9AC5-639BFFC41A3E.jpeg) | ![Favorites](BB4796FD-E0E2-4AE7-ADDC-49D137A2A060.jpeg) |
+| ![Home](assets/8C3B7204-E739-4178-A588-9CF91896CFC7.jpeg) | ![Browse](assets/6C1DECA8-194D-46B3-AD2A-5619DA5BEEE9.jpeg) | ![Search](assets/CD1064D7-0D4B-4985-9AC5-639BFFC41A3E.jpeg) | ![Favorites](assets/BB4796FD-E0E2-4AE7-ADDC-49D137A2A060.jpeg) |
 
 ---
 
